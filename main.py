@@ -11,7 +11,9 @@ num2 = int(second)
 #합, 차 계산
 sum_result = num1 + num2
 sub_result = num1 - num2
+mul_result = num1 * num2
 
 #결과 출력
 print("Sum: ", sum_result)
 print("Difference: ", sub_result)
+print("Product: ", mul_result)
